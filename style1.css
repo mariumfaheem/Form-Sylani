@@ -1,0 +1,78 @@
+.center{
+	 display: block;
+    margin: 0 auto;
+        width: 283px;
+    height: 95px;
+}
+
+.thankyou{
+	 display: block;
+    margin: 0 auto;
+      width: 55%;
+    height: 100%;
+}
+h1{
+color:blue;
+text-decoration: underline;
+text-align: center;
+}
+.div{
+	background-color:#8f1ee6;
+	color:white;
+	padding: 10px 10px 10px 24px;
+    margin: 10px 31px 40px 31px;
+}
+
+label {
+  display: inline-block;
+  width:150px;
+}
+
+select,input {
+  height: 20px;
+  flex: 0 0 200px;
+  margin-left: 10px;
+      margin: 2px 2px 2px 2px;
+    padding: 3px 5px 2px 9px;
+
+}
+
+textarea{
+ flex: 0 0 200px;
+  margin-left: 10px;
+  margin: 0px; 
+  width: 331px;
+   height: 121px;	
+}
+table{
+	display: inline-block;
+}
+#hobbies{
+	    height: 20px;
+    width: 21px;
+    border: dashed;
+    display: inline-block;
+}
+hobbies{
+
+}
+
+/*
+input, label {
+    float:left;
+}
+
+
+*{
+	font-size: 15px;
+}
+
+select{
+	height: 29px;
+}
+
+#hobbies{
+	    height: 20px;
+    width: 21px;
+    border: dashed;
+}
